@@ -1,6 +1,5 @@
-## This is a test document
+## This doc to provide info of the dean of respective Faculty 
 FACULTY OF INFORMATION SCIENCE AND TECHNOLOGY (FIST)
-
 DEAN	:	Assoc. Prof. Ts. Dr. Siti Fatimah Abdul Razak
 fatimah.razak@mmu.edu.my
 06-252 3485
